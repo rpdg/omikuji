@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4d049074d5e345504f7",
+    "revision": "1d92f18af7427ed2b007",
     "url": "bundle.js"
   },
   {
@@ -152,7 +152,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "ios\\apple-touch-icon.png"
   },
   {
-    "revision": "e4d049074d5e345504f7",
+    "revision": "1d92f18af7427ed2b007",
     "url": "main.css"
   },
   {
