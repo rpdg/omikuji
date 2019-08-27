@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "146f3865c842f75b0a9e",
+    "revision": "1ed490117815dae9f08d",
     "url": "bundle.js"
   },
   {
@@ -9,15 +9,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "c6b7a0ec70a1d623c4cf4b18c021affa",
-    "url": "icons\\icon-144.png"
+    "url": "icons/icon-144.png"
   },
   {
     "revision": "288e80ffc86674691023bed7fe460e76",
-    "url": "icons\\icon-192.png"
+    "url": "icons/icon-192.png"
   },
   {
     "revision": "7b552a5ba50a8b7d8294b9182c5aa31f",
-    "url": "icons\\icon-512.png"
+    "url": "icons/icon-512.png"
   },
   {
     "revision": "b351bd62abcd96e924d9f44a3da169a7",
@@ -48,80 +48,84 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/daikyou.png"
   },
   {
-    "revision": "e8019d507e8cb51d169ab4f94a0cda12",
+    "revision": "a7b95dbdd87e0c809570affaf366a434",
     "url": "img/fa-brands-400.eot"
   },
   {
-    "revision": "83e6c29fb363b2f0ea6cc18fefff729c",
+    "revision": "5bf145531213545e03ff41cd27df7d2b",
     "url": "img/fa-brands-400.svg"
   },
   {
-    "revision": "fdf44bc43e8fa2358bbb7d9165d78455",
+    "revision": "98b6db59be947f563350d2284fc9ea36",
     "url": "img/fa-brands-400.ttf"
   },
   {
-    "revision": "da408238128b876cbda6424391f1566f",
+    "revision": "2ef8ba3410dcc71578a880e7064acd7a",
     "url": "img/fa-brands-400.woff"
   },
   {
-    "revision": "6814d0e8136d34e313623eb7129d538e",
+    "revision": "5e2f92123d241cabecf0b289b9b08d4a",
     "url": "img/fa-brands-400.woff2"
   },
   {
-    "revision": "e6c93cb47e716b579264a5fdfbf7e84d",
+    "revision": "dcce4b7fbd5e895561e18af4668265af",
     "url": "img/fa-regular-400.eot"
   },
   {
-    "revision": "ba2a91dc95e6cfdc4b2a186a7ba83e29",
+    "revision": "5eb754ab7dbd2fee562360528db4c3c0",
     "url": "img/fa-regular-400.svg"
   },
   {
-    "revision": "8d220c793e2612bd131ed8522c54669f",
+    "revision": "65b9977aa23185e8964b36eddbce7a20",
     "url": "img/fa-regular-400.ttf"
   },
   {
-    "revision": "dad90637f797356bbc70d2664832e0b6",
+    "revision": "427d721b86fc9c68b2e85ad42b69238c",
     "url": "img/fa-regular-400.woff"
   },
   {
-    "revision": "8d9ab84bfe87a3f77112a6698cf639fb",
+    "revision": "e6257a726a0cf6ec8c6fec22821c055f",
     "url": "img/fa-regular-400.woff2"
   },
   {
-    "revision": "ea363ed422723673917901680be9b37c",
+    "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
     "url": "img/fa-solid-900.eot"
   },
   {
-    "revision": "de1d242d8acb26ec43c0d071fe78e72d",
+    "revision": "49279363201ed19a840796e05a74a91b",
     "url": "img/fa-solid-900.svg"
   },
   {
-    "revision": "132e9759d93e4eefd7cdde0d7a322991",
+    "revision": "ff8d9f8adb0d09f11d4816a152672f53",
     "url": "img/fa-solid-900.ttf"
   },
   {
-    "revision": "2d0415fa29ea596b7a02c78eddeede20",
+    "revision": "a7140145ebaaf5fb14e40430af5d25c4",
     "url": "img/fa-solid-900.woff"
   },
   {
-    "revision": "b75b4bfe0d58faeced5006c785eaae23",
+    "revision": "418dad87601f9c8abd0e5798c0dc1feb",
     "url": "img/fa-solid-900.woff2"
   },
   {
-    "revision": "19e65b89cee273a249fba4c09b951b74",
+    "revision": "7f9fdd5e7c0656fea97141765f3e0b50",
     "url": "img/ionicons.eot"
   },
   {
-    "revision": "aff28a207631f39ee0272d5cdde43ee7",
+    "revision": "665921072642ed354618b32af7425a22",
     "url": "img/ionicons.svg"
   },
   {
-    "revision": "dd4781d1acc57ba4c4808d1b44301201",
+    "revision": "cfdc15225683b7529d6ba1e9d8a9be59",
     "url": "img/ionicons.ttf"
   },
   {
-    "revision": "2c159d0d05473040b53ec79df8797d32",
+    "revision": "c37ad37a3a23417b739ac3b297416201",
     "url": "img/ionicons.woff"
+  },
+  {
+    "revision": "96f1c901c087fb64019f7665f7f8aca6",
+    "url": "img/ionicons.woff2"
   },
   {
     "revision": "5c60f5b5f2db8e350ed816ddbe47bcf5",
@@ -149,10 +153,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6e0685d24ff1f58a41752b8da03fb993",
-    "url": "ios\\apple-touch-icon.png"
+    "url": "ios/apple-touch-icon.png"
   },
   {
-    "revision": "146f3865c842f75b0a9e",
+    "revision": "1ed490117815dae9f08d",
     "url": "main.css"
   },
   {
