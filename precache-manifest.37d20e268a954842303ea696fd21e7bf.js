@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ed490117815dae9f08d",
+    "revision": "29ef874f62dd27030e58",
     "url": "bundle.js"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/syoukichi.png"
   },
   {
-    "revision": "93fc9a4d44214f72c6bf36cb1a9b9fec",
+    "revision": "ab1fef1de555f11cae13f228b260c35f",
     "url": "index.html"
   },
   {
@@ -156,7 +156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "ios/apple-touch-icon.png"
   },
   {
-    "revision": "1ed490117815dae9f08d",
+    "revision": "29ef874f62dd27030e58",
     "url": "main.css"
   },
   {
