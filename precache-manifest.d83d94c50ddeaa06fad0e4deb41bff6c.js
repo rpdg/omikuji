@@ -1,15 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29ef874f62dd27030e58",
-    "url": "bundle.js"
+    "revision": "2f07555ae0349ffce00e",
+    "url": "app.bundle.js"
   },
   {
     "revision": "8120bf342074ddb260b49e292643b216",
     "url": "favicon.ico"
-  },
-  {
-    "revision": "c6b7a0ec70a1d623c4cf4b18c021affa",
-    "url": "icons/icon-144.png"
   },
   {
     "revision": "288e80ffc86674691023bed7fe460e76",
@@ -148,19 +144,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/syoukichi.png"
   },
   {
-    "revision": "ab1fef1de555f11cae13f228b260c35f",
+    "revision": "7ba9badfe255562590d7b4830d4be66e",
     "url": "index.html"
   },
   {
-    "revision": "6e0685d24ff1f58a41752b8da03fb993",
-    "url": "ios/apple-touch-icon.png"
-  },
-  {
-    "revision": "29ef874f62dd27030e58",
-    "url": "main.css"
-  },
-  {
-    "revision": "306258a6cddb900f1f067912a7864f2e",
+    "revision": "e24e7d2b59df2aaa5d34cb9a2eed53e9",
     "url": "manifest.json"
+  },
+  {
+    "revision": "855ea7589d94240da697",
+    "url": "vendor.bundle.js"
   }
 ]);
